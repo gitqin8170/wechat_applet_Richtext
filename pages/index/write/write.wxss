@@ -1,0 +1,136 @@
+@import "common/lib/weui.wxss";
+@import "assets/iconfont.wxss";
+.hand_item{
+/* border: 1rpx solid #ccc; */
+height: 80rpx;
+border-radius: 35rpx;
+margin-top: 10rpx;
+
+}
+.quxiao{
+  width: 400rpx;
+  height: 50rpx;
+  float: left;
+  margin-left: 40rpx;
+  margin-top: 40rpx;
+  color: rgb(190, 190, 190);
+  font-size: 30rpx;
+}
+.dianji{
+  width: 200rpx;
+  height: 50rpx;
+  float: left;
+  margin-left: 50rpx;
+  
+}
+ .baocun{
+ width: 100rpx;
+float: left;
+color: rgb(235, 98, 7);
+margin-top: 40rpx;
+border: 2rpx solid rgb(235, 98, 7);
+box-sizing: border-box;
+padding: 0rpx;
+padding-left: 20rpx;
+border-radius: 20rpx;
+font-size: 31rpx;
+
+
+}
+.fabu{
+width: 100rpx;
+margin-left: 118rpx;
+margin-top: 40rpx;
+color: white;
+border: 2rpx solidrgb(235, 98, 7);
+box-sizing: border-box;
+padding: 0rpx;
+background-color: rgb(235, 98, 7);
+align-content: center;
+padding-left: 21rpx;
+border-radius: 20rpx;
+font-size: 31rpx;
+}
+
+.hr {
+  height: 5px;
+  background-color: #ccc;
+  opacity: 0.2;
+  margin-top: 10px;
+}
+.shuru {
+  float: left;
+  margin-top: 40rpx;
+  margin-left: 15rpx;
+  width: 700rpx;
+  height: 30rpx;
+  border-radius: 10rpx;
+  color: #ccc;
+}
+
+.neirong {
+  width: 680rpx;
+  height: 160rpx;
+  margin-left: 20rpx;
+  margin-top: 10rpx;
+}
+
+.zishu {
+  float: right;
+  margin-right: 50rpx;
+  color: rgb(180, 207, 231);
+}
+/* .write{
+margin-left: 30rpx;
+float: left;
+margin-top: 50rpx;
+} */
+.container1 {
+  position: absolute; 
+  top: 1; 
+  left: 0; 
+  width: 100%;
+}
+
+.ql-container {
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  font-size: 15px;
+  line-height: 1.5;
+  overflow: auto;
+  padding: 10px 10px 20px 10px;
+  border: 1px solid #ECECEC;
+  margin-top: 140rpx;
+
+}
+
+.ql-active {
+  color: #22C704;
+}
+
+.iconfont {
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+.toolbar {
+  box-sizing: border-box;
+  padding: 0 10px;
+  height: 50px;
+  width: 100%;
+  position: fixed;
+  left: 0;
+  right: 100%;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid #ECECEC;
+  border-left: none;
+  border-right: none;
+}
+

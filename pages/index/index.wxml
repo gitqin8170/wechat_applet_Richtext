@@ -1,0 +1,13 @@
+<view class="line"></view>
+<view class="item">
+  <view class="title">选择类型</view>
+  <view class="hr"></view>
+  <view class="navs">
+    <navigator class="nav" url="../index/write/write" hover-class="navigator-hover">
+      <view>
+        <image src="../../images/avatar-1.png" style="width:38px;height:38px;"></image>
+      </view>
+      <view>写文章</view>
+    </navigator>
+  </view>
+</view>
