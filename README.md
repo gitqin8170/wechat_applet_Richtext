@@ -6,7 +6,7 @@
 
 
 
-![](https://github.com/gitqin8170/wechat_applet_Richtext/blob/master/images/1.png)
+![](https://github.com/gitqin8170/wechat_applet_Richtext/blob/master/images/2.png)
 
 
 
